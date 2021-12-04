@@ -1,0 +1,15 @@
+.env*
+node_modules
+.profile
+manifest.yml
+node*.log
+result.json
+npm-debug.*
+result*.json
+backup
+read*.sql
+temp.js
+env.list
+ibm*.jks
+.secret*
+

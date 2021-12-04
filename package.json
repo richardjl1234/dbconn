@@ -1,0 +1,19 @@
+{
+   "name": "db-conn",
+   "version": "0.0.2",
+   "private": true,
+   "scripts": {
+      "start": "node app.js"
+   },
+   "dependencies": {
+      "express": "4.15.5",
+      "ibm_db": "2.4.0",
+      "@angular/cli": "~7.3.6",
+      "request": "2.87.0",
+      "fs-extra": "7.0.0"
+   },
+   "repository": {},
+   "engines": {
+      "node": "9.x"
+   }
+}
